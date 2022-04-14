@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aTze91
 - 👀 I’m interested in web develompment
-- 🌱 I’m currently learning html, css, java
+- 🌱 I’m currently learning html, css, java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
